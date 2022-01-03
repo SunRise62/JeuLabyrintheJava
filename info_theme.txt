@@ -1,0 +1,4 @@
+Thème Walking Dead
+Thomas Caucheteux, David Vacossin, Tatiana Delforge, Emilien Dieval
+{"Conserve de Nourriture","Bouteille d'eau", "Barre énergisante", "Bandages","Kit de soins","Couteau","Pistolet","Fusil à pompe","Munitions""Cache d'armes","Marteau","Clous","Planches","Pied de biche","Abri","Clé","Essence","Batterie","Trousse à outils","Voiture"} 
+
